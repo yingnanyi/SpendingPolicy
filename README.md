@@ -1,0 +1,2 @@
+# SpendingPolicy
+SpendingPolicyJewishFoundation
